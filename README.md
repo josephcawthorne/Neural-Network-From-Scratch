@@ -1,4 +1,4 @@
-# Fashion-MNIST LeNet-5 Classifier 
+# Neural-Network-From-Scratch
 
 This repository is an end-to-end deep learning workflow: implementing and training the **LeNet-5 convolutional neural network** on the [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist).  
 
